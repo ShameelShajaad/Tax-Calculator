@@ -59,28 +59,28 @@ You have to pay Rent Tax : 5000.0
 
 ###  Payable Tax
 
-Enter your employee payment per month : 200000
-You have to pay Payable Tax per month : 7500.0
+Enter your employee payment per month : 200000  
+You have to pay Payable Tax per month : 7500.0  
 
 
 ###  Income Tax
 
-Enter your total income per year : 2500000
-You have to pay Income Tax per year : 140000.0
+Enter your total income per year : 2500000  
+You have to pay Income Tax per year : 140000.0  
 
 
 ###  SSCL Tax
 
-Enter value of Good or Service : 50000
-You have to pay SSCL Tax : 8125.0
+Enter value of Good or Service : 50000  
+You have to pay SSCL Tax : 8125.0  
 
 
 ###  Leasing Payment (Monthly Installment)
 
-Enter lease amount : 500000
-Enter annual interest rate : 12
-Enter number of year : 3
-Your monthly Installment : 16666.67
+Enter lease amount : 500000  
+Enter annual interest rate : 12  
+Enter number of year : 3  
+Your monthly Installment : 16666.67  
 
 
 ---
